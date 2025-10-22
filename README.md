@@ -1,5 +1,8 @@
 # 📋 Formulario de Registro de Paciente
 
+🌐 **[Ver Demo en Vivo](https://guidofer.github.io/form-registro-paciente/)** |
+ 📂 **[Ver Código](https://github.com/GuidoFer/form-registro-paciente)**
+ 
 Formulario web responsivo para el registro de información básica de pacientes en entornos médicos o clínicos.
 
 ## 🎯 Características
